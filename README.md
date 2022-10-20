@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio project i will be using this o showcase my projects !
 
-[live demo](https://portfolio-nemesio.herokuapp.com/)
+[live demo](https://portfolio.bonapartehayes.repl.co/)
 
 ![Screen Shot 2022-07-28 at 21 06 21](https://user-images.githubusercontent.com/107975354/181652211-31580b7f-caaa-45d4-a12e-bf71c4d9c8d6.png)
 
